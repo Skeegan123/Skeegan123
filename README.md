@@ -9,7 +9,6 @@ I started coding 4 years ago with Python. It wasn't until last year where I chan
 * 🌍  I'm based in Seattle, Washington
 * 🖥️  See my portfolio at [my website](http://keegangaffney.com)
 * ✉️  You can contact me at [contact@keegangaffney.com](mailto:contact@keegangaffney.com)
-* 🧠  I'm learning .NET and GUI apps with visual C#
 
 ### Skills
 
